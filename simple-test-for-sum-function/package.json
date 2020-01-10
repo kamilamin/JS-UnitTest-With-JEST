@@ -1,0 +1,14 @@
+{
+  "name": "JS-UnitTest-With-JEST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamilamin/JS-UnitTest-With-JEST.git",
+  "author": "kamilamin <kamil.amin@live.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
