@@ -1,0 +1,12 @@
+{
+  "name": "unit-test-crud-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
